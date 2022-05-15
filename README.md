@@ -16,6 +16,7 @@ Steps to Execute the Program:
 2. To input the number of coordinate pairs (upto 20 cordinate pairs) for which the convex hull to be implemented.
 3. To input the points. (For sample testing please refer below)
 4. For 18 pairs:
+
 -7
 
 8
@@ -89,6 +90,7 @@ Steps to Execute the Program:
 4
 
 For 8 pairs:
+
 
 0
 
